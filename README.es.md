@@ -100,8 +100,8 @@ GitHub Pages.
 Necesitarás [Node.js](https://nodejs.org/) 20 o más reciente.
 
 ```bash
-git clone https://github.com/vidaltechnologies/borowskisaude.git
-cd borowskisaude
+git clone https://github.com/vidaltechnologies/borowskisaude-site.git
+cd borowskisaude-site
 npm install
 npm run dev
 ```
