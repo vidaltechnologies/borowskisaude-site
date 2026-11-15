@@ -98,8 +98,8 @@ maintain. It can be published for free on Vercel, Netlify or GitHub Pages.
 You will need [Node.js](https://nodejs.org/) 20 or newer.
 
 ```bash
-git clone https://github.com/vidaltechnologies/borowskisaude.git
-cd borowskisaude
+git clone https://github.com/vidaltechnologies/borowskisaude-site.git
+cd borowskisaude-site
 npm install
 npm run dev
 ```

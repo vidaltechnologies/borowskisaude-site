@@ -94,8 +94,8 @@ servidor para manter. Ele pode ser publicado de graça na Vercel, Netlify ou Git
 Você vai precisar do [Node.js](https://nodejs.org/) 20 ou mais recente.
 
 ```bash
-git clone https://github.com/vidaltechnologies/borowskisaude.git
-cd borowskisaude
+git clone https://github.com/vidaltechnologies/borowskisaude-site.git
+cd borowskisaude-site
 npm install
 npm run dev
 ```
